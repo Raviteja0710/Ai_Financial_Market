@@ -107,7 +107,7 @@ This project is licensed under the **MIT License** — free to use and modify wi
 ## 👨‍💻 Author
 
 **Ravi Teja**  
-📧 [raviteja.challa017@gmail.com/https://www.linkedin.com/in/ch-ravi-teja-b00139367/]  
+📧 [raviteja.challa017@gmail.com / https://www.linkedin.com/in/ch-ravi-teja-b00139367/]  
 🌐 [GitHub Profile](https://github.com/Raviteja0710)  
 
 ---
